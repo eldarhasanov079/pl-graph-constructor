@@ -6,8 +6,9 @@ The tool automatically converts the student-created graphs into **DOT-language f
 
 It addresses common challenges in graph-based assessments, such as manual grading errors and limited scalability, by providing a more accurate, engaging, and automatable environment for both students and instructors.
 
-📢 **Presented at ACM CompEd 2025** — Goborone, Botswana
-📄 **Publication:** *A Direct Manipulation User Interface for Constructing Autogradable Graphs*
+📢 **Presented at ACM CompEd 2025** — [Conference Website]([https://prairielearn.readthedocs.io/en/latest/install/](https://comped.acm.org/2025/))
+
+📄 **Publication:** [A Direct Manipulation User Interface for Constructing Autogradable Graphs]([[https://prairielearn.readthedocs.io/en/latest/install/](https://comped.acm.org/2025/](https://dl.acm.org/doi/10.1145/3736251.3747306)))
 
 ---
 
