@@ -54,7 +54,11 @@ docker pull --platform linux/x86_64 prairielearn/prairielearn
 ```
 ### **3. Run the PrairieLearn container**  
 ```bash
-docker pull --platform linux/x86_64 prairielearn/prairielearn
+docker run --platform linux/amd64 -it --rm \
+  -p 3000:3000 \
+  -v "$(pwd):/course" \
+  -e AUTH_MODE=none \
+  prairielearn/prairielearn:latest
 ```
 ### **3. Access PrairieLearn locally**  
 Wait for <ins>http://localhost:3000</ins> to appear and click on it.
