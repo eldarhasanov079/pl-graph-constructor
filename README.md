@@ -1,5 +1,14 @@
 # **A Direct Manipulation User Interface for Constructing Autogradable Graphs**
 
+## 📢 Publication
+
+This tool was published in:
+
+**A Direct Manipulation User Interface for Constructing Autogradable Graphs**  
+Christopher Rau, Eldar Hasanov, Narges Norouzi, Dan Garcia, Armando Fox  
+*CompEd 2025: Proceedings of the ACM Global on Computing Education Conference (Vol. 2), pp. 390–391*  
+👉 https://doi.org/10.1145/3736251.3747306
+
 ## **Overview**
 This project introduces **pl-graph-constructor**, a direct manipulation tool designed for **PrairieLearn** that enables students to construct and edit graphs using a **drag-and-drop interface**.  
 The tool automatically converts the student-created graphs into **DOT-language format** or **Python dictionary** to support **autograding, instant feedback, and iterative resubmission** within PrarieLearn.
